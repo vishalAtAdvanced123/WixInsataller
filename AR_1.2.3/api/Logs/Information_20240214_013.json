@@ -1,0 +1,11 @@
+17:10:52.045 +05:30 [INF] () - Message: Error ID: dd43725f- An error occurred. Please retry or contact to system administrator/support for assistance.
+17:11:00.828 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+17:11:00.831 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+17:11:00.834 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+17:11:00.834 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+17:11:00.834 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+17:11:00.905 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+17:11:05.360 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+17:11:07.242 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+17:11:07.255 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+17:11:07.405 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction

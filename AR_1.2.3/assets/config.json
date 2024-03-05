@@ -1,0 +1,7 @@
+{
+    "API_URL": "https://xyz.autorostering.oneadvanced.io/api/",
+    "AUTH_URL": "auth/discover",    
+    "Mobile_API_URL": "api/v1/mobile",
+    "MobileAppName" : "Advanced People",
+    "RefreshTokenIntervalMilliSecond" : "240000"
+}

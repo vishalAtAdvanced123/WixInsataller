@@ -1,0 +1,64 @@
+15:36:15.265 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json
+15:36:15.324 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: TaskSchedulingThreadPool configured with max concurrency of 3 and TaskScheduler ThreadPoolTaskScheduler.
+15:36:15.338 +05:30 [INF] (Quartz.Core.SchedulerSignalerImpl) - Message: Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+15:36:15.338 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Quartz Scheduler created
+15:36:15.340 +05:30 [INF] (Quartz.Simpl.RAMJobStore) - Message: RAMJobStore initialized.
+15:36:15.340 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Quartz Scheduler 3.5.0.0 - 'MyScheduler' with instanceId 'NON_CLUSTERED' initialized
+15:36:15.340 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 3
+15:36:15.341 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+15:36:15.348 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler MyScheduler_$_NON_CLUSTERED started.
+15:36:15.362 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:15.497 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Default Quartz.NET properties loaded from embedded resource file
+15:36:15.500 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+15:36:15.500 +05:30 [INF] (Quartz.Core.SchedulerSignalerImpl) - Message: Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+15:36:15.500 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Quartz Scheduler created
+15:36:15.501 +05:30 [INF] (Quartz.Simpl.RAMJobStore) - Message: RAMJobStore initialized.
+15:36:15.501 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Quartz Scheduler 3.5.0.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+15:36:15.501 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+15:36:15.501 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+15:36:15.501 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: JobFactory set to: ESolve.Factories.ScheduledJobFactories.SingletonJobFactory
+15:36:15.547 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+15:36:15.548 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:38.732 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:42.630 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:37:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:37:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:37:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:37:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:37:01.778 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:02.844 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:02.877 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:02.955 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:02.970 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:03.353 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:24.086 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:30.886 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:53.553 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:38:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:38:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:38:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:38:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:38:00.084 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.092 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.120 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.121 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.276 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:23.217 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:23.536 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler "DefaultQuartzScheduler_$_NON_CLUSTERED" shutting down.
+15:38:23.537 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+15:38:23.538 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: Shutting down threadpool...
+15:38:23.538 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: Shutdown of threadpool complete.
+15:38:23.540 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete.

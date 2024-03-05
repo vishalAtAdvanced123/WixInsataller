@@ -1,0 +1,14 @@
+16:24:37.701 +05:30 [INF] () - Message: Error ID: 8eccebb2- An error occurred. Please retry or contact to system administrator/support for assistance.
+16:25:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:25:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:25:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:25:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:25:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+16:25:00.078 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:25:00.081 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:25:20.758 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:25:20.760 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:25:20.924 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:25:28.959 +05:30 [INF] () - Message: Vishal_
+16:25:35.786 +05:30 [INF] () - Message: Vishal_
+16:25:35.982 +05:30 [INF] () - Message: Vishal_

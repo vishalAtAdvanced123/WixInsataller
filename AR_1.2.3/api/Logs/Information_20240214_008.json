@@ -1,0 +1,53 @@
+15:59:59.455 +05:30 [INF] () - Message: Error ID: 290cf54c- An error occurred. Please retry or contact to system administrator/support for assistance.
+16:00:00.982 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:00:00.171 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:00:01.750 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:00:02.152 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:00:02.184 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+16:00:04.766 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:00:05.503 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:00:09.853 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:00:10.729 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:00:11.357 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:01:00.244 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:01:00.297 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:01:00.351 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:01:00.353 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:01:07.281 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+16:01:07.743 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:01:07.800 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:01:07.855 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:01:08.090 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:01:09.711 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:02:34.042 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:02:39.912 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:02:55.509 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:03:00.511 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:03:15.107 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:03:15.814 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:03:15.814 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:03:16.207 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:03:19.698 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:03:19.771 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:03:20.772 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+16:04:18.550 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:33.525 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:33.537 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:33.608 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:24:33.608 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:24:33.614 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:33.615 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+16:24:35.463 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:35.491 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+16:24:35.492 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+16:24:35.494 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+16:24:36.668 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:36.691 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+16:24:37.215 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:37.684 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:37.694 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:37.701 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:38.394 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:38.402 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:38.804 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:24:39.081 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction

@@ -1,0 +1,136 @@
+12:32:14.063 +05:30 [ERR] () - Message: Error ID: 9f66db93- The entity type 'List<InsertedJob>' was not found. Ensure that the entity type has been added to the model.
+System.InvalidOperationException: The entity type 'List<InsertedJob>' was not found. Ensure that the entity type has been added to the model.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.GetOrCreateEntry(Object entity)
+   at Microsoft.EntityFrameworkCore.DbContext.EntryWithoutDetectChanges[TEntity](TEntity entity)
+   at Microsoft.EntityFrameworkCore.DbContext.Entry[TEntity](TEntity entity)
+   at ESolve.Entities.DataManager.TemplateManager.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO, TemplateManager _templateManager, TemplateScheduleManager _templateScheduleManager, ScheduleManager _scheduleManager, JobAvailabilityManager _jobAvailabilityManager, JobTypeManager _jobTypeManager, BrokenRulesManager _brokenRuleManager, SubGroupManager _subGroupManager, JobManager _jobManager, JobStatusManager _jobStatusManager, TradesManager _tradeManager, LoneWorkerAlertsManager _loneWorkerAlertsManager, UnlockedRangesManager _unlockedSubGroupsManager, ILoggedInUser loggedInUser, AttendanceConfirmationAlertsManager _attendanceConfirmationAlertsManager, UserManager _userManager)
+   at ESolve.Controllers.TemplatesController.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO)
+   at lambda_method5694(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ESolve.CustomExceptionMiddleware.CSPMiddleware.InvokeAsync(HttpContext httpContext, IConfiguration configuration)
+   at ESolve.CustomExceptionMiddleware.LogoutMiddleware.InvokeAsync(HttpContext httpContext, RepositoryContext repositoryContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at ESolve.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext)
+14:08:07.505 +05:30 [ERR] () - Message: Error ID: c0c93a0d- The instance of entity type 'InsertedJob' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+System.InvalidOperationException: The instance of entity type 'InsertedJob' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.ThrowIdentityConflict(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.IdentityMap`1.Add(TKey key, InternalEntityEntry entry, Boolean updateDuplicate)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StartTracking(InternalEntityEntry entry)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.EntityEntry.set_State(EntityState value)
+   at ESolve.Entities.DataManager.TemplateManager.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO, TemplateManager _templateManager, TemplateScheduleManager _templateScheduleManager, ScheduleManager _scheduleManager, JobAvailabilityManager _jobAvailabilityManager, JobTypeManager _jobTypeManager, BrokenRulesManager _brokenRuleManager, SubGroupManager _subGroupManager, JobManager _jobManager, JobStatusManager _jobStatusManager, TradesManager _tradeManager, LoneWorkerAlertsManager _loneWorkerAlertsManager, UnlockedRangesManager _unlockedSubGroupsManager, ILoggedInUser loggedInUser, AttendanceConfirmationAlertsManager _attendanceConfirmationAlertsManager, UserManager _userManager) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\TemplateManager.cs:line 3855
+   at ESolve.Controllers.TemplatesController.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Controllers\TemplatesController.cs:line 261
+   at lambda_method4379(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ESolve.CustomExceptionMiddleware.CSPMiddleware.InvokeAsync(HttpContext httpContext, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\CSPMiddleware.cs:line 38
+   at ESolve.CustomExceptionMiddleware.LogoutMiddleware.InvokeAsync(HttpContext httpContext, RepositoryContext repositoryContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\LogoutMiddleware.cs:line 78
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at ESolve.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\ExceptionMiddleware.cs:line 49
+14:15:59.829 +05:30 [ERR] () - Message: Error ID: 7d4daccb- The property 'InsertedJob.Id' has a temporary value while attempting to change the entity's state to 'Unchanged'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.
+System.InvalidOperationException: The property 'InsertedJob.Id' has a temporary value while attempting to change the entity's state to 'Unchanged'. Either set a permanent value explicitly, or ensure that the database is configured to generate values for this property.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey, Nullable`1 fallbackState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.AcceptChanges()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.AcceptAllChanges(IReadOnlyList`1 changedEntries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ESolve.Entities.DataManager.TemplateManager.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO, TemplateManager _templateManager, TemplateScheduleManager _templateScheduleManager, ScheduleManager _scheduleManager, JobAvailabilityManager _jobAvailabilityManager, JobTypeManager _jobTypeManager, BrokenRulesManager _brokenRuleManager, SubGroupManager _subGroupManager, JobManager _jobManager, JobStatusManager _jobStatusManager, TradesManager _tradeManager, LoneWorkerAlertsManager _loneWorkerAlertsManager, UnlockedRangesManager _unlockedSubGroupsManager, ILoggedInUser loggedInUser, AttendanceConfirmationAlertsManager _attendanceConfirmationAlertsManager, UserManager _userManager) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\TemplateManager.cs:line 3858
+   at ESolve.Controllers.TemplatesController.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Controllers\TemplatesController.cs:line 261
+   at lambda_method8663(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ESolve.CustomExceptionMiddleware.CSPMiddleware.InvokeAsync(HttpContext httpContext, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\CSPMiddleware.cs:line 38
+   at ESolve.CustomExceptionMiddleware.LogoutMiddleware.InvokeAsync(HttpContext httpContext, RepositoryContext repositoryContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\LogoutMiddleware.cs:line 78
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at ESolve.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\ExceptionMiddleware.cs:line 49
+14:37:44.673 +05:30 [ERR] () - Message: Error ID: 26302cf3- Value cannot be null. (Parameter 'source')
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ESolve.Entities.DataManager.JobAvailabilityManager.CopyDataForward(List`1 newJobs, List`1 originalJobAvailabilities, List`1 availabilities, List`1 jobTypes, List`1 allEmployeesIds, List`1 allConstraints, RepositoryContext repositoryContext, ScheduleDatePreference scheduleDatePreference, List`1 employees, Dictionary`2 jobTypesEmployees, List`1 skillsWhichEmployeesHave, List`1 originalJobs, Int64 scheduleID, Boolean isForTemplates, List`1 employeeConstraintForPublish, List`1 templateJobAvailabilities, ILoggedInUser loggedInUser) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\JobAvailabilityManager.cs:line 2893
+   at ESolve.Entities.DataManager.TemplateManager.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO, TemplateManager _templateManager, TemplateScheduleManager _templateScheduleManager, ScheduleManager _scheduleManager, JobAvailabilityManager _jobAvailabilityManager, JobTypeManager _jobTypeManager, BrokenRulesManager _brokenRuleManager, SubGroupManager _subGroupManager, JobManager _jobManager, JobStatusManager _jobStatusManager, TradesManager _tradeManager, LoneWorkerAlertsManager _loneWorkerAlertsManager, UnlockedRangesManager _unlockedSubGroupsManager, ILoggedInUser loggedInUser, AttendanceConfirmationAlertsManager _attendanceConfirmationAlertsManager, UserManager _userManager) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\TemplateManager.cs:line 4252
+   at ESolve.Controllers.TemplatesController.InsertTemplateIntoSchedule(InsertTemplateDTO insertTemplateDTO) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Controllers\TemplatesController.cs:line 261
+   at lambda_method12263(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ESolve.CustomExceptionMiddleware.CSPMiddleware.InvokeAsync(HttpContext httpContext, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\CSPMiddleware.cs:line 38
+   at ESolve.CustomExceptionMiddleware.LogoutMiddleware.InvokeAsync(HttpContext httpContext, RepositoryContext repositoryContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\LogoutMiddleware.cs:line 78
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at ESolve.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\ExceptionMiddleware.cs:line 49

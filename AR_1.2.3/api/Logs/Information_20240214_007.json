@@ -1,0 +1,1375 @@
+14:35:00.712 +05:30 [INF] () - Message: Error ID: 0b9032ab- An error occurred. Please retry or contact to system administrator/support for assistance.
+14:36:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:36:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:36:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:36:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:36:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:36:00.053 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:36:00.059 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:36:00.102 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:36:00.110 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:36:00.275 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:36:18.757 +05:30 [INF] () - Message: Vishal_
+14:36:28.552 +05:30 [INF] () - Message: Vishal_
+14:36:28.581 +05:30 [INF] () - Message: Vishal_
+14:36:28.819 +05:30 [INF] () - Message: Vishal_
+14:37:00.055 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:37:00.059 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:37:00.062 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:37:00.065 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:37:00.068 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:37:00.644 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:37:00.755 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:37:00.809 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:37:00.821 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:37:01.281 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:37:18.367 +05:30 [INF] () - Message: Vishal_
+14:37:33.918 +05:30 [INF] () - Message: Vishal_
+14:37:34.088 +05:30 [INF] () - Message: Vishal_
+14:37:37.652 +05:30 [INF] () - Message: Vishal_
+14:37:52.475 +05:30 [INF] () - Message: Vishal_
+14:37:53.842 +05:30 [INF] () - Message: Vishal_
+14:37:59.448 +05:30 [INF] () - Message: Vishal_
+14:38:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:38:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:38:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:38:00.018 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:38:00.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:38:00.241 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:38:00.311 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:38:00.324 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:38:00.340 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:38:00.635 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:38:21.398 +05:30 [INF] () - Message: Vishal_
+14:38:22.115 +05:30 [INF] () - Message: Vishal_
+14:38:23.210 +05:30 [INF] () - Message: Vishal_
+14:38:23.498 +05:30 [INF] () - Message: Vishal_
+14:38:33.896 +05:30 [INF] () - Message: Vishal_
+14:38:44.897 +05:30 [INF] () - Message: Vishal_
+14:39:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:39:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:39:00.018 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:39:00.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:39:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:39:00.359 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:39:00.381 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:39:00.457 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:39:00.566 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:39:00.948 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:40:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:40:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:40:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:40:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:40:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:40:00.134 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:40:00.381 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:40:00.449 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:40:00.471 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:40:00.931 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:41:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:41:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:41:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:41:00.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:41:00.021 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:41:00.071 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:41:00.082 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:41:00.123 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:41:00.128 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:41:00.284 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:00.000 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:42:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:42:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:42:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:42:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:42:00.059 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:00.066 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:00.109 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:00.111 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:00.271 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:42:01.369 +05:30 [INF] () - Message: Vishal_
+14:42:33.982 +05:30 [INF] () - Message: Vishal_
+14:42:35.866 +05:30 [INF] () - Message: Vishal_
+14:42:36.648 +05:30 [INF] () - Message: Vishal_
+14:43:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:43:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:43:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:43:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:43:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:43:00.052 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:43:00.057 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:43:00.091 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:43:00.102 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:43:00.241 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:44:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:44:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:44:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:44:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:44:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:44:00.049 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:44:00.058 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:44:00.097 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:44:00.098 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:44:00.227 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:45:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:45:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:45:00.029 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:45:00.042 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:45:00.049 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:45:00.119 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:45:00.121 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:45:00.157 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:45:00.159 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:45:00.308 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:46:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:46:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:46:00.027 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:46:00.029 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:46:00.088 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:00.093 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:00.124 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:00.136 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:00.290 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:46:03.146 +05:30 [INF] () - Message: Vishal_
+14:47:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:47:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:47:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:47:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:47:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:47:00.056 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:47:00.068 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:47:00.104 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:47:00.105 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:47:00.235 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:48:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:48:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:48:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:48:00.018 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:48:00.030 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:48:00.058 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:48:00.074 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:48:00.087 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:48:00.098 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:48:00.261 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:49:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:49:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:49:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:49:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:49:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:49:00.059 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:49:00.064 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:49:00.105 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:49:00.110 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:49:00.242 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:00.037 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:50:00.045 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:50:00.421 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:50:00.423 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:50:00.552 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:50:00.789 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:00.999 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:01.036 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:01.040 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:01.610 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:50:04.945 +05:30 [INF] () - Message: Vishal_
+14:51:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:51:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:51:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:51:00.235 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:51:00.300 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:51:00.327 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:51:00.390 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:51:00.416 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:51:00.424 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:51:00.732 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:52:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:52:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:52:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:52:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:52:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:52:00.093 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:52:00.124 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:52:00.147 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:52:00.158 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:52:00.343 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:53:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:53:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:53:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:53:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:53:00.070 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:53:00.121 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:53:00.156 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:53:00.189 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:53:00.203 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:53:00.378 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:00.000 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:54:00.000 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:54:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:54:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:54:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:54:00.048 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:00.061 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:00.087 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:00.097 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:00.222 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:54:06.648 +05:30 [INF] () - Message: Vishal_
+14:55:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+14:55:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+14:55:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+14:55:00.037 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+14:55:00.040 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+14:55:00.205 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:55:00.215 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:55:00.325 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:55:00.412 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+14:55:01.046 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:04:05.817 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using object serializer: Quartz.Simpl.JsonObjectSerializer, Quartz.Serialization.Json
+15:04:06.528 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: TaskSchedulingThreadPool configured with max concurrency of 3 and TaskScheduler ThreadPoolTaskScheduler.
+15:04:06.768 +05:30 [INF] (Quartz.Core.SchedulerSignalerImpl) - Message: Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+15:04:06.768 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Quartz Scheduler created
+15:04:06.771 +05:30 [INF] (Quartz.Simpl.RAMJobStore) - Message: RAMJobStore initialized.
+15:04:06.773 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Quartz Scheduler 3.5.0.0 - 'MyScheduler' with instanceId 'NON_CLUSTERED' initialized
+15:04:06.774 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 3
+15:04:06.775 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+15:04:06.922 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler MyScheduler_$_NON_CLUSTERED started.
+15:04:06.998 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:04:07.969 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Default Quartz.NET properties loaded from embedded resource file
+15:04:07.982 +05:30 [DBG] (Quartz.Simpl.TaskSchedulingThreadPool) - Message: TaskSchedulingThreadPool configured with max concurrency of 10 and TaskScheduler ThreadPoolTaskScheduler.
+15:04:07.983 +05:30 [INF] (Quartz.Core.SchedulerSignalerImpl) - Message: Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+15:04:07.983 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Quartz Scheduler created
+15:04:07.983 +05:30 [INF] (Quartz.Simpl.RAMJobStore) - Message: RAMJobStore initialized.
+15:04:07.983 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Quartz Scheduler 3.5.0.0 - 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+15:04:07.983 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+15:04:07.983 +05:30 [INF] (Quartz.Impl.StdSchedulerFactory) - Message: Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+15:04:07.986 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: JobFactory set to: ESolve.Factories.ScheduledJobFactories.SingletonJobFactory
+15:04:08.276 +05:30 [INF] (Quartz.Core.QuartzScheduler) - Message: Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+15:04:08.295 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:04:32.167 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:04:37.063 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:05:00.058 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:05:00.060 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:05:00.060 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:05:00.062 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:05:00.062 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:05:00.268 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:05:00.268 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:05:00.268 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:05:00.268 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:05:00.268 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:05:05.187 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:05:13.290 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:05:13.371 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:05:14.096 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:05:14.439 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:05:16.871 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:05:29.142 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:05:31.123 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:05:35.819 +05:30 [INF] () - Message: Vishal_
+15:05:49.632 +05:30 [INF] () - Message: Vishal_
+15:05:49.894 +05:30 [INF] () - Message: Vishal_
+15:05:51.822 +05:30 [INF] () - Message: Vishal_
+15:05:53.325 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:05:57.902 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:06:00.077 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:06:00.078 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:06:00.078 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:06:00.078 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:06:00.078 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:06:00.079 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:06:00.080 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:06:00.080 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:06:00.081 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:06:00.082 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:06:00.298 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:06:00.397 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:06:00.401 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:06:00.441 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:06:00.781 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:06:12.991 +05:30 [INF] () - Message: Vishal_
+15:06:23.971 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:06:25.605 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:06:48.340 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:06:49.146 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:06:50.865 +05:30 [INF] () - Message: Vishal_
+15:06:55.045 +05:30 [INF] () - Message: Vishal_
+15:06:55.055 +05:30 [INF] () - Message: Vishal_
+15:06:55.373 +05:30 [INF] () - Message: Vishal_
+15:07:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:07:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:07:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:07:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:07:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:07:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:07:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:07:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:07:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:07:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:07:00.081 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:07:00.101 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:07:00.142 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:07:00.144 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:07:00.286 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:07:00.795 +05:30 [INF] () - Message: Vishal_
+15:07:16.926 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:07:28.940 +05:30 [INF] () - Message: Vishal_
+15:07:29.443 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:07:32.107 +05:30 [INF] () - Message: Vishal_
+15:07:32.122 +05:30 [INF] () - Message: Vishal_
+15:07:32.573 +05:30 [INF] () - Message: Vishal_
+15:07:46.615 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:07:59.183 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:08:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:08:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:08:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:08:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:08:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:08:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:08:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:08:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:08:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:08:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:08:00.121 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:08:00.127 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:08:00.338 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:08:00.396 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:08:01.390 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:08:02.543 +05:30 [INF] () - Message: Vishal_
+15:08:16.055 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:08:27.916 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:08:44.594 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:08:54.764 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:09:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:09:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:09:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:09:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:09:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:09:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:09:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:09:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:09:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:09:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:09:00.047 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:09:00.069 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:09:00.113 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:09:00.123 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:09:00.224 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:09:08.687 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:09:25.649 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:09:37.297 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:09:49.695 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:10:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:10:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:10:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:10:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:10:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:10:00.098 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:10:00.110 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:10:00.213 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:10:00.227 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:10:00.455 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:10:07.089 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:10:29.623 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:10:31.736 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:10:54.481 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:10:55.080 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:11:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:11:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:11:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:11:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:11:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:11:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:11:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:11:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:11:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:11:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:11:00.107 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:11:00.107 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:11:00.191 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:11:00.199 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:11:00.442 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:11:18.369 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:11:27.284 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:11:47.562 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:11:56.152 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:12:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:12:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:12:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:12:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:12:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:12:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:12:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:12:00.026 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:12:00.126 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:12:00.139 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:12:00.459 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:12:00.525 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:12:00.679 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:12:00.706 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:12:00.842 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:12:04.585 +05:30 [INF] () - Message: Vishal_
+15:12:13.287 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:12:24.455 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:12:38.186 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:12:52.924 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:13:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:13:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:13:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:00.024 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:00.031 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:13:00.039 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:13:00.063 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:13:00.143 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:13:00.198 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:13:00.256 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:13:00.256 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:13:00.528 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:13:07.280 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:13:25.639 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:13:31.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:13:54.794 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:13:57.113 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:14:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:14:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:14:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:14:00.025 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:14:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:14:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:14:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:14:00.026 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:14:00.030 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:14:00.763 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:14:02.165 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:14:02.239 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:14:03.118 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:14:03.612 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:14:04.286 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:14:26.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:14:26.071 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:14:36.669 +05:30 [INF] () - Message: Vishal_
+15:14:36.692 +05:30 [INF] () - Message: Vishal_
+15:14:37.334 +05:30 [INF] () - Message: Vishal_
+15:14:49.543 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:14:51.438 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:15:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:15:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:15:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:15:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:15:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:15:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:15:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:15:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:15:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:15:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:15:00.362 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:15:00.891 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:15:00.946 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:15:00.981 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:15:02.923 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:15:06.165 +05:30 [INF] () - Message: Vishal_
+15:15:14.255 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:15:29.616 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:15:38.067 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:15:57.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:16:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:00.016 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:00.016 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:16:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:16:00.113 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:16:00.113 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:16:00.795 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:16:02.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:16:02.951 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:16:03.061 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:16:03.866 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:16:03.867 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:16:04.416 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:16:25.430 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:16:27.745 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:16:48.569 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:16:55.854 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:17:00.134 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:17:00.135 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:17:00.135 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:17:00.135 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:17:00.136 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:17:00.137 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:17:00.140 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:17:00.142 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:17:00.351 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:17:00.764 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:17:02.592 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:17:03.960 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:17:05.959 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:17:05.983 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:17:06.036 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:17:25.496 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:17:28.692 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:17:40.440 +05:30 [INF] () - Message: Vishal_
+15:17:40.545 +05:30 [INF] () - Message: Vishal_
+15:17:41.248 +05:30 [INF] () - Message: Vishal_
+15:17:50.210 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:17:55.972 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:18:00.057 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:18:00.057 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:18:00.058 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:18:00.058 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:18:00.058 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:18:00.059 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:18:00.060 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:18:00.063 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:18:00.072 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:18:00.075 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:18:00.391 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:18:00.740 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:18:00.783 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:18:01.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:18:01.363 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:18:14.026 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:18:15.039 +05:30 [INF] () - Message: Vishal_
+15:18:29.815 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:18:38.360 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:18:56.883 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:19:00.027 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:19:00.027 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:19:00.028 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:19:00.028 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:19:00.028 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:19:00.101 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:19:00.103 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:19:00.782 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:19:00.816 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:19:01.288 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:19:02.158 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:19:03.041 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:19:03.598 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:19:04.833 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:19:05.920 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:19:05.976 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:19:28.303 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:19:29.681 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:19:44.997 +05:30 [INF] () - Message: Vishal_
+15:19:45.032 +05:30 [INF] () - Message: Vishal_
+15:19:45.684 +05:30 [INF] () - Message: Vishal_
+15:19:55.817 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:19:58.239 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:20:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:20:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:20:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:20:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:20:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:20:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:20:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:20:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:20:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:20:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:20:00.097 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:20:00.145 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:20:00.193 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:20:00.203 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:20:00.438 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:20:15.531 +05:30 [INF] () - Message: Vishal_
+15:20:20.965 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:20:29.448 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:20:48.537 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:20:58.940 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:21:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:21:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:21:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:21:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:21:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:21:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:21:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:21:00.273 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:21:00.663 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:21:00.728 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:21:01.232 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:21:01.298 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:21:01.316 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:21:01.327 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:21:01.833 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:21:15.182 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:21:28.880 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:21:41.336 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:21:52.820 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:22:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:22:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:22:00.022 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:22:00.024 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:22:00.046 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:22:00.143 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:22:00.148 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:22:00.218 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:22:00.246 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:22:00.494 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:22:05.696 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:22:25.297 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:22:34.808 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:22:51.742 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:22:58.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:23:00.017 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:23:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:23:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:23:00.017 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:23:00.018 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:23:00.018 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:23:00.019 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:23:00.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:23:00.027 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:23:00.045 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:23:00.120 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:23:00.144 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:23:00.249 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:23:00.259 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:23:00.538 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:23:25.186 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:23:26.816 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:23:53.889 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:23:56.322 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:24:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:24:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:24:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:24:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:24:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:24:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:24:00.030 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:24:00.045 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:24:00.046 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:24:00.040 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:24:00.297 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:24:00.352 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:24:00.487 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:24:00.501 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:24:00.772 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:24:19.019 +05:30 [INF] () - Message: Vishal_
+15:24:19.108 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:24:24.892 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:24:42.378 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:24:52.987 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:25:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:25:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:25:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:25:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:25:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:25:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:25:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:25:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:25:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:25:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:25:00.107 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:25:00.123 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:25:00.201 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:25:00.209 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:25:00.481 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:25:11.450 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:25:29.512 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:25:41.136 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:25:54.211 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:26:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:26:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:26:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:26:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:26:00.016 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:26:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:26:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:26:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:26:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:26:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:26:00.153 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:26:00.164 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:26:00.467 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:26:00.467 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:26:00.790 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:26:05.135 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:26:25.169 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:26:34.635 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:26:52.160 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:27:00.000 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:27:00.000 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:27:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:27:00.001 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:27:00.001 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:27:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:27:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:27:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:27:00.021 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:27:00.021 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:27:00.294 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:27:00.306 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:27:00.421 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:27:00.443 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:27:00.761 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:27:01.531 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:27:28.292 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:27:31.375 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:27:55.741 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:27:57.500 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:28:00.021 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:28:00.022 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:28:00.022 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:28:00.022 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:28:00.022 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:28:00.023 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:28:00.031 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:28:00.055 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:28:00.057 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:28:00.080 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:28:00.255 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:28:00.309 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:28:00.315 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:28:00.334 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:28:00.676 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:28:21.245 +05:30 [INF] () - Message: Vishal_
+15:28:21.712 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:28:29.752 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:28:48.974 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:28:57.631 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:29:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:29:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:29:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:29:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:29:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:29:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:29:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:29:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:29:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:29:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:29:00.094 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:29:00.099 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:29:00.189 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:29:00.195 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:29:00.446 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:29:14.478 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:29:26.781 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:29:42.711 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:29:53.350 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:30:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:30:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:30:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:30:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:30:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:30:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:30:00.213 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:30:00.640 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:30:00.722 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:30:00.723 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:30:02.114 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:30:02.729 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:30:02.734 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:30:02.793 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:30:03.903 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:30:11.790 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:30:29.022 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:30:41.579 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:30:55.569 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:31:00.000 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:31:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:31:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:31:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:31:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:31:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:31:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:31:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:31:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:31:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:31:00.099 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:31:00.115 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:31:00.350 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:31:00.379 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:31:00.723 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:31:09.303 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:31:27.703 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:31:38.136 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:31:57.050 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:32:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:00.016 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:32:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:32:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:32:00.027 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:32:00.070 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:32:00.166 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:32:00.209 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:32:00.282 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:32:00.290 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:32:00.652 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:32:02.705 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:32:23.143 +05:30 [INF] () - Message: Vishal_
+15:32:27.767 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:32:29.109 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:32:56.601 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:32:57.170 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:33:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:33:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:33:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:33:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:33:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:33:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:33:00.015 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:33:00.022 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:33:00.041 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:33:00.050 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:33:00.180 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:33:00.188 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:33:00.263 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:33:00.266 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:33:00.514 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:33:25.175 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:33:26.081 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:33:49.490 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:33:50.851 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:34:00.000 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:34:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:34:00.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:34:00.001 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:34:00.001 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:34:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:34:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:34:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:34:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:34:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:34:00.092 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:34:00.115 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:34:00.200 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:34:00.212 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:34:00.490 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:34:17.480 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:34:26.475 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:34:41.745 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:34:53.132 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:35:00.006 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:35:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:35:00.008 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:35:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:35:00.030 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:35:00.125 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:35:00.145 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:35:00.233 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:35:00.253 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:35:00.562 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:35:05.285 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:35:28.644 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:35:31.801 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:35:55.524 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:35:58.151 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:36:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:36:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:36:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:36:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:36:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:36:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:36:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:36:00.017 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:36:00.231 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:36:00.265 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:36:00.309 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:36:00.327 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:36:00.539 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:36:24.255 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:25.230 +05:30 [INF] () - Message: Vishal_
+15:36:27.315 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:52.287 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:36:53.674 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:37:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:37:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:37:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:37:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:37:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:37:00.111 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:00.116 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:00.179 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:00.193 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:00.346 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:37:19.496 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:24.696 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:45.036 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:37:49.788 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:38:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:38:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:38:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:38:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:38:00.026 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:38:00.189 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.227 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.321 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.340 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:00.592 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:38:11.592 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:29.020 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:41.282 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:38:56.064 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:39:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:39:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:39:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:39:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:39:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:39:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:39:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:39:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:39:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:39:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:39:00.082 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:39:00.087 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:39:00.193 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:39:00.203 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:39:00.443 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:39:10.968 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:39:28.925 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:39:37.375 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:39:52.630 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:40:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:40:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:40:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:40:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:40:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:40:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:40:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:40:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:40:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:40:00.012 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:40:00.086 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:40:00.096 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:40:00.202 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:40:00.224 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:40:00.484 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:40:03.755 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:40:28.149 +05:30 [INF] () - Message: Vishal_
+15:40:28.162 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:40:29.416 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:40:54.256 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:40:57.999 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:41:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:41:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:41:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:41:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:41:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:41:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:41:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:41:00.015 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:41:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:41:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:41:00.087 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:41:00.122 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:41:00.195 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:41:00.198 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:41:00.447 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:41:21.499 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:41:29.072 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:41:49.684 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:41:57.195 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:42:00.018 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:42:00.018 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:42:00.018 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:42:00.018 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:42:00.018 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:42:00.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:42:00.025 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:42:00.094 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:42:00.168 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:42:00.168 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:42:00.332 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:42:00.341 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:42:00.439 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:42:00.489 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:42:00.790 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:42:13.620 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:42:29.945 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:42:38.685 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:42:59.820 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:43:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:43:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:43:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:43:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:43:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:43:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:43:00.034 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:43:00.040 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:43:00.130 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:43:00.178 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:43:00.296 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:43:00.299 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:43:00.370 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:43:00.372 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:43:00.659 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:43:06.745 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:43:24.943 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:43:34.219 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:43:50.380 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:00.007 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:00.008 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:44:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:44:00.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:44:00.035 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:44:00.039 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:44:00.061 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:44:00.144 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:44:00.165 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:44:00.232 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:44:00.237 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:44:00.514 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:44:03.153 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:44:27.125 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:44:30.198 +05:30 [INF] () - Message: Vishal_
+15:44:31.209 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:44:55.559 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:44:58.960 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:45:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:45:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:45:00.011 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:45:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:45:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:45:00.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:45:00.014 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:45:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:45:00.228 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:45:00.340 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:45:00.448 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:45:00.459 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:45:00.546 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:45:00.550 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:45:00.863 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:45:23.766 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:45:26.526 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:45:52.834 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:45:56.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:46:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:46:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:46:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:46:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:46:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:46:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:46:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:46:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:46:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:46:00.016 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:46:00.079 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:46:00.083 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:46:00.150 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:46:00.151 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:46:00.302 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:46:20.103 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:46:24.116 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:46:26.341 +05:30 [INF] () - Message: Vishal_
+15:46:28.112 +05:30 [INF] () - Message: Vishal_
+15:46:49.033 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:46:49.148 +05:30 [INF] () - Message: Vishal_
+15:46:49.634 +05:30 [INF] () - Message: Vishal_
+15:46:49.919 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:46:50.046 +05:30 [INF] () - Message: Vishal_
+15:46:59.171 +05:30 [INF] () - Message: Vishal_
+15:47:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:47:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:47:00.002 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:47:00.002 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:47:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:47:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:47:00.003 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:47:00.003 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:47:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:47:00.004 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:47:00.065 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:47:00.076 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:47:00.082 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:47:00.087 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:47:00.214 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:47:02.173 +05:30 [INF] () - Message: Vishal_
+15:47:08.793 +05:30 [INF] () - Message: Vishal_
+15:47:13.083 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:47:14.680 +05:30 [INF] () - Message: Vishal_
+15:47:17.081 +05:30 [INF] () - Message: Vishal_
+15:47:19.315 +05:30 [INF] () - Message: Vishal_
+15:47:23.598 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:47:37.583 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:47:40.265 +05:30 [INF] () - Message: Vishal_
+15:47:41.239 +05:30 [INF] () - Message: Vishal_
+15:47:46.829 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:00.004 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:00.005 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:48:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:00.005 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:48:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:48:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:48:00.006 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:48:00.007 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:48:00.052 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:48:00.053 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:48:00.086 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:48:00.095 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:48:00.245 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:48:05.321 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:48:13.219 +05:30 [INF] () - Message: Vishal_
+15:48:14.189 +05:30 [INF] () - Message: Vishal_
+15:48:46.237 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:48:46.240 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:48:55.993 +05:30 [INF] () - Message: Vishal_
+15:49:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:49:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:49:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:49:00.009 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:49:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:49:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:49:00.009 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:49:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:49:00.010 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:49:00.011 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:49:00.054 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:49:00.058 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:49:00.088 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:49:00.094 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:49:00.233 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:49:13.285 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:49:24.857 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:49:40.606 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:49:55.024 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:00.138 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:00.138 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:50:00.139 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:00.575 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:00.581 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:50:02.057 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:50:03.139 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:50:04.215 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:04.227 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:50:04.229 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:50:04.994 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:50:05.001 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:50:05.013 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:50:05.020 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:50:05.232 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:50:09.568 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:50:30.365 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:50:39.252 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:51:00.825 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:51:00.850 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:51:00.852 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:51:00.852 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:51:00.853 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:51:05.033 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:51:05.588 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:51:05.589 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:51:06.832 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:51:06.833 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:51:20.962 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:51:20.965 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:51:21.737 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:51:21.872 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:51:21.930 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:51:28.685 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:51:31.602 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:51:50.970 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:53:10.903 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:53:11.914 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:53:24.849 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:25.703 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:25.724 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:53:25.744 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:25.966 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:53:25.969 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:25.998 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:53:26.016 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:26.226 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:53:26.228 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:26.501 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:53:26.504 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:53:27.388 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:29.122 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:29.143 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:29.380 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:32.159 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:53:44.915 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:53:57.612 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:53:57.848 +05:30 [INF] () - Message: Vishal_
+15:54:00.503 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:54:00.503 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:54:16.280 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:54:16.285 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:54:26.313 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:54:45.864 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:54:45.865 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:54:45.865 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:54:45.867 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:54:45.869 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:54:46.178 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:54:46.181 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:54:47.423 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:54:47.483 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:54:48.656 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:54:49.506 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:54:57.157 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:55:06.709 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:55:06.709 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:55:08.995 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:55:08.996 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:55:08.998 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:55:08.998 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:55:13.237 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:55:13.240 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:55:13.240 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:55:13.241 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:55:13.241 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:55:48.949 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:55:48.949 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:56:05.904 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:56:06.380 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:56:06.447 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:56:06.879 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:56:06.887 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:56:06.967 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:56:07.313 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:56:07.314 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:56:07.317 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:56:07.317 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:56:12.775 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:56:12.779 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:56:12.787 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:56:34.028 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:57:38.241 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:57:38.241 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:57:39.430 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:57:46.884 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:57:46.885 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:57:46.886 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:57:47.936 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:57:48.765 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:57:48.769 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:57:55.019 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:57:57.537 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:03.492 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:58:16.894 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:58:17.307 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:17.363 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:18.055 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:18.463 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:58:18.464 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:58:18.465 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:19.046 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:20.141 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:20.145 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:20.149 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:20.149 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:58:20.149 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:20.171 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:58:20.172 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:58:22.903 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:58:45.666 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:58:45.707 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:45.779 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:58:47.183 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:58:48.053 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:01.138 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts
+15:59:02.119 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:59:02.124 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:59:02.126 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticActions.LoneWorkerAlerts
+15:59:02.126 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.JobOffersDeletion
+15:59:04.102 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:59:10.837 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:59:10.843 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals
+15:59:10.843 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:10.846 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:59:10.848 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Calling Execute on job DEFAULT.ESolve.AutomaticDeletions.TradeOffersDeletion
+15:59:10.921 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:10.924 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:59:35.041 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+15:59:36.765 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+15:59:37.654 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:37.822 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:38.529 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:39.405 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:53.349 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:53.562 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:53.764 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:53.769 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+15:59:53.772 +05:30 [DBG] (Quartz.Core.JobRunShell) - Message: Trigger instruction : NoInstruction
+16:00:00.168 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:00:01.643 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:00:01.728 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:00:02.083 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:00:02.117 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:00:02.186 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:00:28.110 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:00:28.853 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:00:52.307 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:00:57.782 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:01:00.244 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:01:00.297 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:01:00.351 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:01:00.842 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:01:06.851 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:01:18.078 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:02:24.627 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:02:24.628 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:02:39.910 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:02:50.728 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:02:55.475 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:03:00.508 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:05.505 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:15.110 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:15.427 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:15.785 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:16.270 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:03:17.146 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:04:18.544 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:04:18.546 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:04:24.862 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:31.848 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:24:31.849 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:31.849 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:33.526 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:33.599 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:33.626 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:35.465 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:24:55.093 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:25:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:25:00.012 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:25:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:25:00.013 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:25:00.014 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:25:23.939 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:25:29.379 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:25:48.896 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers
+16:25:56.675 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:26:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:26:00.010 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:26:00.027 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:26:00.027 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 1 triggers
+16:26:00.028 +05:30 [DBG] (Quartz.Core.QuartzSchedulerThread) - Message: Batch acquisition of 0 triggers

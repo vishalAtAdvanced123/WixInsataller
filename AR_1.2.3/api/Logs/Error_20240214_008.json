@@ -1,0 +1,57 @@
+16:24:37.755 +05:30 [ERR] () - Message: Error ID: 8eccebb2- Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at ESolve.Entities.DataManager.SharedManagers.SharedManagerForAvailabilities.CalculateRangeForJobs(DateTime minDate, DateTime maxDate, Dictionary`2 constraints, ScheduleDatePreference scheduleDatePreference, List`1 schedulesMinAndMax) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\SharedManagers\SharedManagerForAvailabilities.cs:line 1524
+   at ESolve.Entities.DataManager.JobAvailabilityManager.JobsUpdateOnTimeChange(List`1 updatedJobs, Boolean isUpdateTime, Boolean publishTemplateAction, JobTypeManager jobTypeManager, RepositoryContext repositoryContext, List`1 newAssignments) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\JobAvailabilityManager.cs:line 4917
+   at ESolve.Entities.DataManager.TemplateManager.UpdateInsertedTemplate(InsertTemplateDTO updatedInsertedTemplateDTO, Int64 id, TemplateScheduleManager _templateScheduleManager, JobManager _jobManager, JobAvailabilityManager _jobAvailabilityManager, ScheduleManager _scheduleManager, JobTypeManager _jobTypeManager, Int64 userID) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\TemplateManager.cs:line 5426
+   at ESolve.Controllers.TemplatesController.UpdateInsertedTemplate(Int64 id, InsertTemplateDTO updatedInsertedTemplateDTO) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Controllers\TemplatesController.cs:line 527
+   at lambda_method6931(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at ESolve.CustomExceptionMiddleware.CSPMiddleware.InvokeAsync(HttpContext httpContext, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\CSPMiddleware.cs:line 38
+   at ESolve.CustomExceptionMiddleware.LogoutMiddleware.InvokeAsync(HttpContext httpContext, RepositoryContext repositoryContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\LogoutMiddleware.cs:line 78
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at ESolve.CustomExceptionMiddleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Middlewares\ExceptionMiddleware.cs:line 49
+16:25:20.731 +05:30 [ERR] (Quartz.Core.JobRunShell) - Message: Job DEFAULT.ESolve.AutomaticActions.AttendanceConfirmationAlerts threw an unhandled Exception: 
+Microsoft.Data.SqlClient.SqlException (0x80131904): Login failed for user 'AR_USER'.  Reason: The password of the account has expired.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method708(Closure , QueryContext )
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at ESolve.Entities.DataManager.ScheduleDatePreferenceManager.Get() in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\ScheduleDatePreferenceManager.cs:line 55
+   at ESolve.Entities.PushNotificationManager..ctor(RepositoryContext context, IHubContext`1 hubContext, IRepositoryBase`1 emailSettingsRepository, IRepositoryBase`1 dateScheduleDatePreferenceManager) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\PushNotificationManager.cs:line 65
+   at ESolve.Entities.PushNotifications.NotificationManager..ctor(RepositoryContext context, IHubContext`1 hubContext, IRepositoryBase`1 emailSettingsRepository, IRepositoryBase`1 dateScheduleDatePreferenceManager) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\PushNotifications\NotificationManager.cs:line 28
+   at ESolve.AutomaticActions.AttendanceConfirmationAlerts.<>c__DisplayClass3_0.<Execute>b__0(NotificationManagerTypes key) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\AutomaticActions\AttendanceConfirmationAlerts.cs:line 71
+   at ESolve.Entities.DataManager.AttendanceConfirmationAlertsManager..ctor(RepositoryContext repositoryContext, Func`2 serviceProvider) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\DataManager\AttendanceConfirmationAlertsManager.cs:line 46
+   at ESolve.AutomaticActions.AttendanceConfirmationAlerts.Execute(IJobExecutionContext context) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\AutomaticActions\AttendanceConfirmationAlerts.cs:line 77
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+ClientConnectionId:b99c3795-83c3-4210-a82d-df9c05ab4f5b
+Error Number:18487,State:1,Class:14

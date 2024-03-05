@@ -1,0 +1,84 @@
+10:59:45.508 +05:30 [ERR] (Quartz.Core.JobRunShell) - Message: Job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals threw an unhandled Exception: 
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WriteSni(Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode, Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinuedOnSuccess(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Insert[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Merge[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkTransaction.Execute[T](DbContext context, Type type, IList`1 entities, OperationType operationType, BulkConfig bulkConfig, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkExtensions.BulkUpdate[T](DbContext context, IList`1 entities, BulkConfig bulkConfig, Action`1 progress, Type type)
+   at ESolve.Entities.PushNotifications.SubmitApprovalNotificationManager.ResendApprovalNotifications(List`1 groupsApprovals, ScheduleManager scheduleManager, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\PushNotifications\SubmitApprovalNotificationManager.cs:line 153
+   at ESolve.AutomaticDeletions.ManageApprovals.Execute(IJobExecutionContext context) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\AutomaticActions\ManageApprovals.cs:line 82
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+ClientConnectionId:14f8e7b6-27c3-492f-b5d5-96c8cae36d5b
+Error Number:-2,State:0,Class:11
+10:59:45.993 +05:30 [ERR] (Quartz.Core.ErrorLogger) - Message: Job DEFAULT.ESolve.AutomaticDeletions.ManageApprovals threw an exception.
+Quartz.SchedulerException: Job threw an unhandled exception.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WriteSni(Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode, Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinuedOnSuccess(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Insert[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Merge[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkTransaction.Execute[T](DbContext context, Type type, IList`1 entities, OperationType operationType, BulkConfig bulkConfig, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkExtensions.BulkUpdate[T](DbContext context, IList`1 entities, BulkConfig bulkConfig, Action`1 progress, Type type)
+   at ESolve.Entities.PushNotifications.SubmitApprovalNotificationManager.ResendApprovalNotifications(List`1 groupsApprovals, ScheduleManager scheduleManager, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\PushNotifications\SubmitApprovalNotificationManager.cs:line 153
+   at ESolve.AutomaticDeletions.ManageApprovals.Execute(IJobExecutionContext context) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\AutomaticActions\ManageApprovals.cs:line 82
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+ClientConnectionId:14f8e7b6-27c3-492f-b5d5-96c8cae36d5b
+Error Number:-2,State:0,Class:11
+   --- End of inner exception stack trace --- [See nested exception: Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WriteSni(Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode, Boolean canAccumulate)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinuedOnSuccess(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at Microsoft.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.InsertAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Insert[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, Action`1 progress)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.MergeAsync[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress, Boolean isAsync, CancellationToken cancellationToken)
+   at EFCore.BulkExtensions.SQLAdapters.SQLServer.SqlOperationsServerAdapter.Merge[T](DbContext context, Type type, IList`1 entities, TableInfo tableInfo, OperationType operationType, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkTransaction.Execute[T](DbContext context, Type type, IList`1 entities, OperationType operationType, BulkConfig bulkConfig, Action`1 progress)
+   at EFCore.BulkExtensions.DbContextBulkExtensions.BulkUpdate[T](DbContext context, IList`1 entities, BulkConfig bulkConfig, Action`1 progress, Type type)
+   at ESolve.Entities.PushNotifications.SubmitApprovalNotificationManager.ResendApprovalNotifications(List`1 groupsApprovals, ScheduleManager scheduleManager, IConfiguration configuration) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\Entities\PushNotifications\SubmitApprovalNotificationManager.cs:line 153
+   at ESolve.AutomaticDeletions.ManageApprovals.Execute(IJobExecutionContext context) in C:\Project\RELEASE_1.3\WEB\Backend\ESolve\ESolve\AutomaticActions\ManageApprovals.cs:line 82
+   at Quartz.Core.JobRunShell.Run(CancellationToken cancellationToken)
+ClientConnectionId:14f8e7b6-27c3-492f-b5d5-96c8cae36d5b
+Error Number:-2,State:0,Class:11]

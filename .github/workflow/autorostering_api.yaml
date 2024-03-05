@@ -1,0 +1,31 @@
+name: autorostering-msi-build
+
+on:
+  push:
+    branches: [ Main ]
+    paths:
+    - 'WEB/Frontend/**'
+    - '.github/workflows/autorostering_msi.yaml'
+  pull_request:
+    branches: [ Main ]
+
+env:
+  RELEASE_VERSION: '1.3.0.0'
+  ENVIRONMENT: 'Development'
+  BRANCHE: 'RELEASE-1.3'
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor != 'dependabot[bot]' && github.actor != 'adv-build-svc' }}
+    permissions:
+      id-token: write
+      contents: read
+    strategy:
+      matrix:
+        node-version: [16.x]
+    
+    steps:
+    - uses: actions/checkout@v3 
+      with:
+        ref: ${{ github.event.pull_request.head.ref}}
