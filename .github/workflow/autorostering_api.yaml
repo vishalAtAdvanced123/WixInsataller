@@ -2,12 +2,12 @@ name: autorostering-msi-build
 
 on:
   push:
-    branches: [ Main ]
+    branches: [ main ]
     paths:
     - 'WEB/Frontend/**'
     - '.github/workflows/autorostering_msi.yaml'
   pull_request:
-    branches: [ Main ]
+    branches: [ main ]
 
 env:
   RELEASE_VERSION: '1.3.0.0'
