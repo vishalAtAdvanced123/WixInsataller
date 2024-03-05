@@ -29,3 +29,20 @@ jobs:
     - uses: actions/checkout@v3 
       with:
         ref: ${{ github.event.pull_request.head.ref}}
+        
+    - name: Copy builds to AutoRostering folder
+      working-directory: ${{ github.workspace }}
+      run: |
+        mkdir ./AutoRostering
+        mkdir ./AutoRostering/api
+        cp -r ./AR_1.2.3/api/* ./AutoRostering/api/
+        cp -r ./AR_1.2.3/* ./AutoRostering/
+        ls -l ./AutoRostering/
+        ls -l ./AutoRostering/api/
+    
+    - name: Upload AutoRostering directory as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: AutoRostering
+          path: ./AutoRostering
+        
