@@ -40,4 +40,9 @@ jobs:
         ls -l ./AutoRostering/
         ls -l ./AutoRostering/api/
     
+    - name: Upload AutoRostering directory as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: AutoRostering
+          path: ./AutoRostering
         
