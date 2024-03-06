@@ -40,7 +40,7 @@ jobs:
         if [ "${{secrets.ENVIRONMENT}}" = "Development" ]; then
           rm ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json
           mv ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json 
-        fi
+        fi 
         if [ "${{secrets.ENVIRONMENT}}" = "Production" ]; then
           rm ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json
           mv ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json 
