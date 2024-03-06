@@ -41,6 +41,10 @@ jobs:
           rm ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json
           mv ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json 
         fi
+        if [ "${{env.ENVIRONMENT}}" = "Production" ]; then
+          rm ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json
+          mv ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json 
+        fi
         
     - uses: actions/upload-artifact@v2
       with:
