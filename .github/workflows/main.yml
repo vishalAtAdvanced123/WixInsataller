@@ -37,11 +37,11 @@ jobs:
         mkdir ./AutoRostering/api
         cp -r ./AR_1.2.3/api/* ./AutoRostering/api/
         cp -r ./AR_1.2.3/* ./AutoRostering/
-        if [ "${{variables.ENVIRONMENT}}" = "Development" ]; then
+        if [ "${{vars.ENVIRONMENT}}" = "Development" ]; then
           rm ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json
           mv ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json 
         fi 
-        if [ "${{variables.ENVIRONMENT}}" = "Production" ]; then
+        if [ "${{vars.ENVIRONMENT}}" = "Production" ]; then
           rm ./AutoRostering/api/appsettings.Development.json ./AutoRostering/api/appsettings.json
           mv ./AutoRostering/api/appsettings.Production.json ./AutoRostering/api/appsettings.json 
         fi
