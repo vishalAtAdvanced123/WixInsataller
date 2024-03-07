@@ -1,7 +1,7 @@
 name: autorostering-msi-build
 
 on:
-    workflow_dispatch:
+  workflow_dispatch:
     inputs:
       logLevel:
         description: 'Log level'
@@ -20,7 +20,6 @@ on:
         description: 'Environment to run tests against'
         type: environment
         required: true
-  
 
 #env:
 #  RELEASE_VERSION: '1.3.0.0'
@@ -30,7 +29,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: ${{ input.environment }}
+    environment: ${{ inputs.environment }}
     if: ${{ github.actor != 'dependabot[bot]' && github.actor != 'adv-build-svc' }}
     permissions:
       id-token: write
