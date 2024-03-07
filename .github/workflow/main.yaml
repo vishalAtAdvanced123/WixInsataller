@@ -1,0 +1,48 @@
+name: autorostering-msi-build
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+    - 'WEB/Frontend/**'
+    - '.github/workflows/autorostering_msi.yaml'
+  pull_request:
+    branches: [ main ]
+
+env:
+  RELEASE_VERSION: '1.3.0.0'
+  ENVIRONMENT: 'Development'
+  BRANCHE: 'RELEASE-1.3'
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor != 'dependabot[bot]' && github.actor != 'adv-build-svc' }}
+    permissions:
+      id-token: write
+      contents: read
+    strategy:
+      matrix:
+        node-version: [16.x]
+    
+    steps:
+    - uses: actions/checkout@v3 
+      with:
+        ref: ${{ github.event.pull_request.head.ref}}
+        
+    - name: Copy builds to AutoRostering folder
+      working-directory: ${{ github.workspace }}
+      run: |
+        mkdir ./AutoRostering
+        mkdir ./AutoRostering/api
+        cp -r ./AR_1.2.3/api/* ./AutoRostering/api/
+        cp -r ./AR_1.2.3/* ./AutoRostering/
+        ls -l ./AutoRostering/
+        ls -l ./AutoRostering/api/
+    
+    - name: Upload AutoRostering directory as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: AutoRostering
+          path: ./AutoRostering
+        
