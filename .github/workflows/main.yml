@@ -63,3 +63,9 @@ jobs:
       with:
         name: AutoRostering
         path: ./AutoRostering/api
+        
+    - name: Delete artifacts
+      run: |
+        rm -rf ./AutoRostering
+        
+    
